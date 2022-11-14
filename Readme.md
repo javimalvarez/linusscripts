@@ -1,6 +1,6 @@
 #### <u>**AVISO: Esto es un script automatizado para el gestor de paquetes** ***apt*** **utilízalo con cuidado**</u>
 
-!(/imagenes/imagen.png)
+![](/imagenes/imagen.png)
 
 Este script va a permitir tanto la descarga de paquetes alojados en cualquier distribución que maneje paquetes deb  así como la instalación de paquetes externos
 
